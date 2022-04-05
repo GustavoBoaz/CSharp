@@ -1,0 +1,16 @@
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-3 - Variables, Data Types and Operators\code\Aula3VS\Aula3VS\bin\Debug\net5.0\Aula3VS.exe
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-3 - Variables, Data Types and Operators\code\Aula3VS\Aula3VS\bin\Debug\net5.0\Aula3VS.deps.json
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-3 - Variables, Data Types and Operators\code\Aula3VS\Aula3VS\bin\Debug\net5.0\Aula3VS.runtimeconfig.json
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-3 - Variables, Data Types and Operators\code\Aula3VS\Aula3VS\bin\Debug\net5.0\Aula3VS.runtimeconfig.dev.json
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-3 - Variables, Data Types and Operators\code\Aula3VS\Aula3VS\bin\Debug\net5.0\Aula3VS.dll
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-3 - Variables, Data Types and Operators\code\Aula3VS\Aula3VS\bin\Debug\net5.0\ref\Aula3VS.dll
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-3 - Variables, Data Types and Operators\code\Aula3VS\Aula3VS\bin\Debug\net5.0\Aula3VS.pdb
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-3 - Variables, Data Types and Operators\code\Aula3VS\Aula3VS\obj\Debug\net5.0\Aula3VS.csproj.AssemblyReference.cache
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-3 - Variables, Data Types and Operators\code\Aula3VS\Aula3VS\obj\Debug\net5.0\Aula3VS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-3 - Variables, Data Types and Operators\code\Aula3VS\Aula3VS\obj\Debug\net5.0\Aula3VS.AssemblyInfoInputs.cache
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-3 - Variables, Data Types and Operators\code\Aula3VS\Aula3VS\obj\Debug\net5.0\Aula3VS.AssemblyInfo.cs
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-3 - Variables, Data Types and Operators\code\Aula3VS\Aula3VS\obj\Debug\net5.0\Aula3VS.csproj.CoreCompileInputs.cache
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-3 - Variables, Data Types and Operators\code\Aula3VS\Aula3VS\obj\Debug\net5.0\Aula3VS.dll
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-3 - Variables, Data Types and Operators\code\Aula3VS\Aula3VS\obj\Debug\net5.0\ref\Aula3VS.dll
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-3 - Variables, Data Types and Operators\code\Aula3VS\Aula3VS\obj\Debug\net5.0\Aula3VS.pdb
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-3 - Variables, Data Types and Operators\code\Aula3VS\Aula3VS\obj\Debug\net5.0\Aula3VS.genruntimeconfig.cache
