@@ -1,0 +1,16 @@
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-5- Control Flow_v1\code\Aula5VS\Aula5VS\bin\Debug\net5.0\Aula5VS.exe
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-5- Control Flow_v1\code\Aula5VS\Aula5VS\bin\Debug\net5.0\Aula5VS.deps.json
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-5- Control Flow_v1\code\Aula5VS\Aula5VS\bin\Debug\net5.0\Aula5VS.runtimeconfig.json
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-5- Control Flow_v1\code\Aula5VS\Aula5VS\bin\Debug\net5.0\Aula5VS.runtimeconfig.dev.json
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-5- Control Flow_v1\code\Aula5VS\Aula5VS\bin\Debug\net5.0\Aula5VS.dll
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-5- Control Flow_v1\code\Aula5VS\Aula5VS\bin\Debug\net5.0\ref\Aula5VS.dll
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-5- Control Flow_v1\code\Aula5VS\Aula5VS\bin\Debug\net5.0\Aula5VS.pdb
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-5- Control Flow_v1\code\Aula5VS\Aula5VS\obj\Debug\net5.0\Aula5VS.csproj.AssemblyReference.cache
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-5- Control Flow_v1\code\Aula5VS\Aula5VS\obj\Debug\net5.0\Aula5VS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-5- Control Flow_v1\code\Aula5VS\Aula5VS\obj\Debug\net5.0\Aula5VS.AssemblyInfoInputs.cache
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-5- Control Flow_v1\code\Aula5VS\Aula5VS\obj\Debug\net5.0\Aula5VS.AssemblyInfo.cs
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-5- Control Flow_v1\code\Aula5VS\Aula5VS\obj\Debug\net5.0\Aula5VS.csproj.CoreCompileInputs.cache
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-5- Control Flow_v1\code\Aula5VS\Aula5VS\obj\Debug\net5.0\Aula5VS.dll
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-5- Control Flow_v1\code\Aula5VS\Aula5VS\obj\Debug\net5.0\ref\Aula5VS.dll
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-5- Control Flow_v1\code\Aula5VS\Aula5VS\obj\Debug\net5.0\Aula5VS.pdb
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-5- Control Flow_v1\code\Aula5VS\Aula5VS\obj\Debug\net5.0\Aula5VS.genruntimeconfig.cache
