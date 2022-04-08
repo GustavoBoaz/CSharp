@@ -1,0 +1,16 @@
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-6 - Loops_v1\code\Aula6VSC\bin\Debug\net5.0\Aula6VSC.exe
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-6 - Loops_v1\code\Aula6VSC\bin\Debug\net5.0\Aula6VSC.deps.json
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-6 - Loops_v1\code\Aula6VSC\bin\Debug\net5.0\Aula6VSC.runtimeconfig.json
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-6 - Loops_v1\code\Aula6VSC\bin\Debug\net5.0\Aula6VSC.runtimeconfig.dev.json
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-6 - Loops_v1\code\Aula6VSC\bin\Debug\net5.0\Aula6VSC.dll
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-6 - Loops_v1\code\Aula6VSC\bin\Debug\net5.0\ref\Aula6VSC.dll
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-6 - Loops_v1\code\Aula6VSC\bin\Debug\net5.0\Aula6VSC.pdb
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-6 - Loops_v1\code\Aula6VSC\obj\Debug\net5.0\Aula6VSC.csproj.AssemblyReference.cache
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-6 - Loops_v1\code\Aula6VSC\obj\Debug\net5.0\Aula6VSC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-6 - Loops_v1\code\Aula6VSC\obj\Debug\net5.0\Aula6VSC.AssemblyInfoInputs.cache
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-6 - Loops_v1\code\Aula6VSC\obj\Debug\net5.0\Aula6VSC.AssemblyInfo.cs
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-6 - Loops_v1\code\Aula6VSC\obj\Debug\net5.0\Aula6VSC.csproj.CoreCompileInputs.cache
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-6 - Loops_v1\code\Aula6VSC\obj\Debug\net5.0\Aula6VSC.dll
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-6 - Loops_v1\code\Aula6VSC\obj\Debug\net5.0\ref\Aula6VSC.dll
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-6 - Loops_v1\code\Aula6VSC\obj\Debug\net5.0\Aula6VSC.pdb
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-6 - Loops_v1\code\Aula6VSC\obj\Debug\net5.0\Aula6VSC.genruntimeconfig.cache
