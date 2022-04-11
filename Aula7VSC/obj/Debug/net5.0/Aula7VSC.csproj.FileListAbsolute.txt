@@ -1,0 +1,16 @@
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-7 - Functions_v1\code\Aula7VSC\obj\Debug\net5.0\Aula7VSC.csproj.AssemblyReference.cache
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-7 - Functions_v1\code\Aula7VSC\obj\Debug\net5.0\Aula7VSC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-7 - Functions_v1\code\Aula7VSC\obj\Debug\net5.0\Aula7VSC.AssemblyInfoInputs.cache
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-7 - Functions_v1\code\Aula7VSC\obj\Debug\net5.0\Aula7VSC.AssemblyInfo.cs
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-7 - Functions_v1\code\Aula7VSC\obj\Debug\net5.0\Aula7VSC.csproj.CoreCompileInputs.cache
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-7 - Functions_v1\code\Aula7VSC\bin\Debug\net5.0\Aula7VSC.exe
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-7 - Functions_v1\code\Aula7VSC\bin\Debug\net5.0\Aula7VSC.deps.json
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-7 - Functions_v1\code\Aula7VSC\bin\Debug\net5.0\Aula7VSC.runtimeconfig.json
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-7 - Functions_v1\code\Aula7VSC\bin\Debug\net5.0\Aula7VSC.runtimeconfig.dev.json
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-7 - Functions_v1\code\Aula7VSC\bin\Debug\net5.0\Aula7VSC.dll
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-7 - Functions_v1\code\Aula7VSC\bin\Debug\net5.0\ref\Aula7VSC.dll
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-7 - Functions_v1\code\Aula7VSC\bin\Debug\net5.0\Aula7VSC.pdb
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-7 - Functions_v1\code\Aula7VSC\obj\Debug\net5.0\Aula7VSC.dll
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-7 - Functions_v1\code\Aula7VSC\obj\Debug\net5.0\ref\Aula7VSC.dll
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-7 - Functions_v1\code\Aula7VSC\obj\Debug\net5.0\Aula7VSC.pdb
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-7 - Functions_v1\code\Aula7VSC\obj\Debug\net5.0\Aula7VSC.genruntimeconfig.cache
