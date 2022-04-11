@@ -1,0 +1,16 @@
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-7 - Functions_v1\code\LZ\bin\Debug\net5.0\LZ.exe
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-7 - Functions_v1\code\LZ\bin\Debug\net5.0\LZ.deps.json
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-7 - Functions_v1\code\LZ\bin\Debug\net5.0\LZ.runtimeconfig.json
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-7 - Functions_v1\code\LZ\bin\Debug\net5.0\LZ.runtimeconfig.dev.json
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-7 - Functions_v1\code\LZ\bin\Debug\net5.0\LZ.dll
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-7 - Functions_v1\code\LZ\bin\Debug\net5.0\ref\LZ.dll
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-7 - Functions_v1\code\LZ\bin\Debug\net5.0\LZ.pdb
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-7 - Functions_v1\code\LZ\obj\Debug\net5.0\LZ.csproj.AssemblyReference.cache
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-7 - Functions_v1\code\LZ\obj\Debug\net5.0\LZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-7 - Functions_v1\code\LZ\obj\Debug\net5.0\LZ.AssemblyInfoInputs.cache
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-7 - Functions_v1\code\LZ\obj\Debug\net5.0\LZ.AssemblyInfo.cs
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-7 - Functions_v1\code\LZ\obj\Debug\net5.0\LZ.csproj.CoreCompileInputs.cache
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-7 - Functions_v1\code\LZ\obj\Debug\net5.0\LZ.dll
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-7 - Functions_v1\code\LZ\obj\Debug\net5.0\ref\LZ.dll
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-7 - Functions_v1\code\LZ\obj\Debug\net5.0\LZ.pdb
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-7 - Functions_v1\code\LZ\obj\Debug\net5.0\LZ.genruntimeconfig.cache

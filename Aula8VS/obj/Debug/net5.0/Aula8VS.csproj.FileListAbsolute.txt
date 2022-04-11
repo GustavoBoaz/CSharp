@@ -1,0 +1,16 @@
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-8 - Object Oriented Programming - Fundamentals_v1\code\Aula8VS\bin\Debug\net5.0\Aula8VS.exe
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-8 - Object Oriented Programming - Fundamentals_v1\code\Aula8VS\bin\Debug\net5.0\Aula8VS.deps.json
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-8 - Object Oriented Programming - Fundamentals_v1\code\Aula8VS\bin\Debug\net5.0\Aula8VS.runtimeconfig.json
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-8 - Object Oriented Programming - Fundamentals_v1\code\Aula8VS\bin\Debug\net5.0\Aula8VS.runtimeconfig.dev.json
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-8 - Object Oriented Programming - Fundamentals_v1\code\Aula8VS\bin\Debug\net5.0\Aula8VS.dll
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-8 - Object Oriented Programming - Fundamentals_v1\code\Aula8VS\bin\Debug\net5.0\ref\Aula8VS.dll
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-8 - Object Oriented Programming - Fundamentals_v1\code\Aula8VS\bin\Debug\net5.0\Aula8VS.pdb
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-8 - Object Oriented Programming - Fundamentals_v1\code\Aula8VS\obj\Debug\net5.0\Aula8VS.csproj.AssemblyReference.cache
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-8 - Object Oriented Programming - Fundamentals_v1\code\Aula8VS\obj\Debug\net5.0\Aula8VS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-8 - Object Oriented Programming - Fundamentals_v1\code\Aula8VS\obj\Debug\net5.0\Aula8VS.AssemblyInfoInputs.cache
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-8 - Object Oriented Programming - Fundamentals_v1\code\Aula8VS\obj\Debug\net5.0\Aula8VS.AssemblyInfo.cs
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-8 - Object Oriented Programming - Fundamentals_v1\code\Aula8VS\obj\Debug\net5.0\Aula8VS.csproj.CoreCompileInputs.cache
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-8 - Object Oriented Programming - Fundamentals_v1\code\Aula8VS\obj\Debug\net5.0\Aula8VS.dll
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-8 - Object Oriented Programming - Fundamentals_v1\code\Aula8VS\obj\Debug\net5.0\ref\Aula8VS.dll
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-8 - Object Oriented Programming - Fundamentals_v1\code\Aula8VS\obj\Debug\net5.0\Aula8VS.pdb
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-8 - Object Oriented Programming - Fundamentals_v1\code\Aula8VS\obj\Debug\net5.0\Aula8VS.genruntimeconfig.cache
