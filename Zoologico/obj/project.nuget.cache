@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CouvVveuBYrgwlgBBWKA70nhSZpl070LGJVNPP4/bl+8ICKXOFAZrmBzYNBe7cAUwhEkQM+TZHvD54Fq7RS95Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pamel\\OneDrive\\Área de Trabalho\\boaz\\generation\\.net_aulas\\cookbook\\C#-10 - Polymorphism and inheritance_v1\\code\\Aula10VSC\\Zoologico\\Zoologico.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pamel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

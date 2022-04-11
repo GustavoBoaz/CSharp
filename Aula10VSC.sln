@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoologico", "Zoologico\Zoologico.csproj", "{AA12CFD7-E334-4F49-A2EF-0B4CDA4C029B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora", "Calculadora\Calculadora.csproj", "{7B26753F-86AE-4AAA-8521-7EA1C5D275E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Venda", "Venda\Venda.csproj", "{759EA842-FD4E-4721-A48A-B4953F4BCCD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA12CFD7-E334-4F49-A2EF-0B4CDA4C029B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA12CFD7-E334-4F49-A2EF-0B4CDA4C029B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA12CFD7-E334-4F49-A2EF-0B4CDA4C029B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA12CFD7-E334-4F49-A2EF-0B4CDA4C029B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B26753F-86AE-4AAA-8521-7EA1C5D275E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B26753F-86AE-4AAA-8521-7EA1C5D275E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B26753F-86AE-4AAA-8521-7EA1C5D275E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B26753F-86AE-4AAA-8521-7EA1C5D275E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{759EA842-FD4E-4721-A48A-B4953F4BCCD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{759EA842-FD4E-4721-A48A-B4953F4BCCD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{759EA842-FD4E-4721-A48A-B4953F4BCCD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{759EA842-FD4E-4721-A48A-B4953F4BCCD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-10 - Polymorphism and inheritance_v1\code\Aula10VSC\Zoologico\bin\Debug\net5.0\Zoologico.exe
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-10 - Polymorphism and inheritance_v1\code\Aula10VSC\Zoologico\bin\Debug\net5.0\Zoologico.deps.json
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-10 - Polymorphism and inheritance_v1\code\Aula10VSC\Zoologico\bin\Debug\net5.0\Zoologico.runtimeconfig.json
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-10 - Polymorphism and inheritance_v1\code\Aula10VSC\Zoologico\bin\Debug\net5.0\Zoologico.runtimeconfig.dev.json
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-10 - Polymorphism and inheritance_v1\code\Aula10VSC\Zoologico\bin\Debug\net5.0\Zoologico.dll
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-10 - Polymorphism and inheritance_v1\code\Aula10VSC\Zoologico\bin\Debug\net5.0\Zoologico.pdb
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-10 - Polymorphism and inheritance_v1\code\Aula10VSC\Zoologico\obj\Debug\net5.0\Zoologico.csproj.AssemblyReference.cache
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-10 - Polymorphism and inheritance_v1\code\Aula10VSC\Zoologico\obj\Debug\net5.0\Zoologico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-10 - Polymorphism and inheritance_v1\code\Aula10VSC\Zoologico\obj\Debug\net5.0\Zoologico.AssemblyInfoInputs.cache
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-10 - Polymorphism and inheritance_v1\code\Aula10VSC\Zoologico\obj\Debug\net5.0\Zoologico.AssemblyInfo.cs
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-10 - Polymorphism and inheritance_v1\code\Aula10VSC\Zoologico\obj\Debug\net5.0\Zoologico.csproj.CoreCompileInputs.cache
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-10 - Polymorphism and inheritance_v1\code\Aula10VSC\Zoologico\obj\Debug\net5.0\Zoologico.dll
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-10 - Polymorphism and inheritance_v1\code\Aula10VSC\Zoologico\obj\Debug\net5.0\refint\Zoologico.dll
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-10 - Polymorphism and inheritance_v1\code\Aula10VSC\Zoologico\obj\Debug\net5.0\Zoologico.pdb
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-10 - Polymorphism and inheritance_v1\code\Aula10VSC\Zoologico\obj\Debug\net5.0\Zoologico.genruntimeconfig.cache
+C:\Users\pamel\OneDrive\Área de Trabalho\boaz\generation\.net_aulas\cookbook\C#-10 - Polymorphism and inheritance_v1\code\Aula10VSC\Zoologico\obj\Debug\net5.0\ref\Zoologico.dll
