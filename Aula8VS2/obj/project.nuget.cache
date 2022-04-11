@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lx3qYmKrQCXByMPy+5lkMylwTQl6YooVwMTk8QZrD3UoZMdcV+tcE0sw9ogjAsGQefo5uL2dFEpMGvzmm36CDw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pamel\\OneDrive\\Área de Trabalho\\boaz\\generation\\.net_aulas\\cookbook\\C#-8 - Object Oriented Programming - Fundamentals_v1\\code\\Aula8VS2\\Aula8VS2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pamel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
